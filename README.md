@@ -1,9 +1,13 @@
-- Good day, I’m @aubergino
-- Currently studying computer science at university
-- "what are you working on?" passing my classes?
-- Favourite and most capable (programming) language is Python, with some experience in HTML, C#, Ruby, PHP, CSS, SQL, and of course Scratch
-- Vaguely interested in many human languages, including my native 🇬🇧; 🇫🇷, 🇨🇳, and 🇰🇭
-- I do reserve the right to chuck useless code up here for the fun of it
-- Arch is the best but I kinda like Macs, and Windows is ok too ig
+Hey what's up
+- I'm currently studying computer science at university
+- "currently working on"? passing my classes?
+- Favourite and most capable (programming) language is Python. i love python. i eat syntactic whitespace for breakfast every morning.
+  - unfortunately it seems that for that experience to be useful, I have to learn libraries now too. ugh.
+- Vaguely interested in human languages, including my native 🇬🇧, 🇫🇷, 🇵🇱, 🇨🇳, 🇦🇺🧏, and 🇰🇭
 
-- LINUX KERNELS COMPILED: 0
+# Comparisons
+- 🐧 > 🪟
+  - 🍎 = 💸
+- 🐉 > 👣
+  - ∵ 🐉 = 🆒
+- ✝️ > *
