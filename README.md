@@ -1,13 +1,8 @@
 Hey what's up
-- I'm currently studying computer science at university
-- "currently working on"? passing my classes?
-- Favourite and most capable (programming) language is Python. i love python. i eat syntactic whitespace for breakfast every morning.
-  - unfortunately it seems that for that experience to be useful, I have to learn libraries now too. ugh.
-- Vaguely interested in human languages, including my native 🇬🇧, 🇫🇷, 🇵🇱, 🇨🇳, 🇦🇺🧏, and 🇰🇭
-
-# Comparisons
-- 🐧 > 🪟
-  - 🍎 = 💸
-- 🐉 > 👣
-  - ∵ 🐉 = 🆒
-- ✝️ > *
+- uni compsci student
+- python fan. i love python. i eat syntactic whitespace for breakfast every morning.
+  - also conversant in Flutter/Dart, SQL, and PHP
+- human languages fan. most to least competent: 🇬🇧, 🇫🇷, 🇵🇱, 🇦🇺🧏, 🇨🇳, 🇰🇭
+- penguin OS fan. if the world used penguin OS it would be a happier place
+  - never used BSD? it's like penguin OS minus all the real-world use cases, plus repeatedly hearing that everything you know is a "linuxism"
+  - never used a mac? give it a go! let go of the illusion that you control your gatesbox, lost in a blissful sea of usability and attention to detail
